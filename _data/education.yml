@@ -3,20 +3,14 @@
   dates: 2007 - 2011
   qualification: PhD Computer Science
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Established in 1958, Monash University is one of Australia's leading universities and ranks among the world's top 100.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    I completed my PhD within the Center for Electronic Media Arts, a research group within the Faculty of Information Technology. My research produced a novel method for generating organic 3D forms, for which I developed a sophisticated biologically-inspired simulation environment. I was awarded the *Mollie Holman Doctoral Medal* for my dissertation.
 
 - layout: left
   name: Monash University
   dates: 2004 - 2007
-  qualification: Bachelor of Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  qualification: Bachelor of Computer Science (Honours)
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    I was awarded the *Best Thesis Award* in the Faculty of IT for my honours thesis Chromatic Zeros of Boolean Functions. The thesis investigated the link between graph colouring and boolean functions.
 

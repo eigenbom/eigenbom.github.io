@@ -16,9 +16,11 @@ github_username:  eigenbom
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Ben. I'm a games programmer with a background in computer science, mathematics, and art.
+  I'm a games programmer with a background in computer science, mathematics, and art. I enjoy working on large projects and experimenting with new languages and technology. My primary interest is in procedural generation and the future of computational creativity in games.
 
-  I'm very comfortable with <mark>C++</mark>, <mark>Games Development</mark>, and <mark>Procedural Generation</mark>.
+  I'm very experienced with <mark>C++</mark>, <mark>Game Engines</mark> and <mark>Games Development</mark>. I also enjoy <mark>Procedural Generation</mark>.
+
+  I’m familiar with Python and have had experience with most other languages, including Java, Typescript, C#, Haskell, Lua, and Lisp. I’ve had experience with developing game engines and using existing engines like Unity and Unreal.
 
 # Projects Section
 # projects_title: Projects
