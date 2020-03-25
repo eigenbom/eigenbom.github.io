@@ -11,6 +11,8 @@
   name: Monash University
   dates: 2004 - 2007
   qualification: Bachelor of Computer Science (Honours)
+  quote: >
+    Established in 1958, Monash University is one of Australia's leading universities and ranks among the world's top 100.
   description: | # this will include new lines to allow paragraphs
     I was awarded the *Best Thesis Award* in the Faculty of IT for my honours thesis Chromatic Zeros of Boolean Functions. The thesis investigated the link between graph colouring and boolean functions.
 
